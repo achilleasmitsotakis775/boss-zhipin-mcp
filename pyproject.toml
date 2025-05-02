@@ -1,0 +1,5 @@
+[project]
+name = "boss-zhipin-mcp"
+version = "0.1.0"
+description = "BOSS直聘 MCP Server — 用 AI 自动化招聘流程：批量搜索候选人、简历截图OCR、智能评估、多关键词筛选 | BOSS Zhipin Recruiter Automation via Model Context Protocol"
+requires-python = ">=3.10"
