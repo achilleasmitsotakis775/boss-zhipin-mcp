@@ -5,3 +5,4 @@ description = "BOSS直聘 MCP Server — 用 AI 自动化招聘流程：批量�
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
+# clarify the control flow
